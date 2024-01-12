@@ -2,16 +2,18 @@
 
 Tenho 18 anos e atualmente trabalho como designer gráfico. O mundo da programação sempre foi algo que me chamou a atenção, então aos 14/15 anos, resolvi me aprofundar no mundo do **desenvolvimento web**. Porém, dei uma parada por um tempo, um longo tempo pra falar a verdade. Nessa paradinha, acabei esquecendo de muita coisa, tipo muita coisa mesmo!
 
-Recentemente, resolvi aprender HTML, CSS e Javascript do zero absoluto, através da plataforma [Curso em Vídeo](https://www.cursoemvideo.com/), que por sinal, é ótima pra quem quer aprender a programar sem precisar investir um centavo.
-
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raylissoon&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia"/>
 </div>
+
+
+Recentemente, resolvi aprender HTML, CSS e Javascript do zero absoluto, através da plataforma [Curso em Vídeo](https://www.cursoemvideo.com/), que por sinal, é ótima pra quem quer aprender a programar sem precisar investir um centavo.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ray-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ray-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ray-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="era pra ser um gif kk" height="80" width="80" src="https://files.catbox.moe/lyjaxo.png"/>
 </div>
   
   ##
