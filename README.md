@@ -13,7 +13,7 @@ Recentemente, resolvi aprender HTML, CSS e Javascript do zero absoluto, através
   <img align="center" alt="Ray-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ray-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ray-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="era pra ser um gif kk" height="80" width="80" src="https://files.catbox.moe/lyjaxo.png"/>
+  <img align="right" alt="era pra ser um gif kk" height="80" width="80" src="https://files.catbox.moe/0wmc2o.jpeg"/>
 </div>
   
   ##
